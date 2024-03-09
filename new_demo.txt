@@ -1,1 +1,3 @@
 good morning everyone
+
+this is time to explore more in git
